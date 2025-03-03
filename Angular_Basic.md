@@ -15,10 +15,14 @@
 - Import in our system (App.module.ts or Specific componenet)
 - Use module 
 - app.module.ts => Globally accessible
-
 - Only need to import in app.module no need to import everywhere
 - Always import in app.module its good design
 
 ## Why styles and scripts in angular.json
 - Styles are global its better to have them seperate 
 - Scripts are not all available in moudules so keep them sperate like (jquery)
+
+## Whats subscribe and Observable
+- Observable => request
+- subscribe => Calling the request 
+
