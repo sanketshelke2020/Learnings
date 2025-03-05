@@ -12,7 +12,7 @@
 - Domain Centric
 - Before Database Centric
 
-![Alt text](images/cleanvstirearchi.jpg)
+![Alt text](Images/cleanvstirearchi.png)
 
 
 ## When Use 
