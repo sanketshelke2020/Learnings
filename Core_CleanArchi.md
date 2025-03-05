@@ -5,10 +5,15 @@
 |---/MyApp.Infrastructure                (Presentation Layer)
 |---/MyApp.API                (Presentation Layer)
 
+## Testing is difficualt in normal archi 
+## Always dependencies comes in way 
 
 ## Clean Archi
 - Domain Centric
 - Before Database Centric
+
+![Alt text](images/cleanvstirearchi.jpg)
+
 
 ## When Use 
 - Domain-Driven Design focus on domain not infrastructure
